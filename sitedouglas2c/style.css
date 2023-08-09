@@ -35,6 +35,7 @@ body{
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
+    display: block;
     color: var(--branco-principal);
     text-decoration: none;
     margin-bottom: 1em;
@@ -51,12 +52,11 @@ body{
 
 .container__titulo{
     font-size: 28px;
-    font-weight: 700;
+    font-weight: 700;block
 }
 
 .container__imagem{
     margin: 1em 0 2em 0 ;
-
 }
 .container__caixa{
     margin: 0 6em;
